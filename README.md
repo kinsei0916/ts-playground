@@ -1,3 +1,3 @@
 # TypeScript Playground
 
-Random code thingies.
+Random dumpy thingies.
